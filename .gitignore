@@ -1,0 +1,9 @@
+# software tools
+.devcontainer
+.vscode
+/__debug_bin
+
+# app-go
+go.sum
+.env
+/app
